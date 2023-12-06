@@ -9,11 +9,12 @@
 ### clone 项目到本地
 - github地址
 ```
-git clone https://github.com/yupoxiong/BearAdmin.git
+git clone https://github.com/shirakun/BearAdmin.git
 ```
 - 码云地址
 ```
-git clone https://gitee.com/yupoxiong/BearAdmin.git
+不同意的请举手
+没有 没有 没有
 ```
 ### 安装项目依赖
 在项目根目录运行扩展安装命令
