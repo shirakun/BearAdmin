@@ -1,5 +1,5 @@
 # BearAdmin
-基于ThinkPHP6.0+AdminLTE3.2的后台管理系统。TP5.1版本[点击这里](https://github.com/yupoxiong/BearAdmin/tree/thinkphp5.1), TP5.0版本[点击这里](https://github.com/yupoxiong/BearAdmin/tree/thinkphp5.0)
+基于ThinkPHP8.0+AdminLTE3.2的后台管理系统。TP5.1版本[点击这里](https://github.com/yupoxiong/BearAdmin/tree/thinkphp5.1), TP5.0版本[点击这里](https://github.com/yupoxiong/BearAdmin/tree/thinkphp5.0)
 
 
  [开发文档](https://www.kancloud.cn/codebear/admin_tp6) |
